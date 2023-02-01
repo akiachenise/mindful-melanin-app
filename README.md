@@ -12,9 +12,6 @@ Contributors names and contact info
 [@KiiaaBiiaa](https://twitter.com/kiiaabiiaa)
 ============================================
 
-TO DO:
-
-ADD HOW TO AND START INFORMATION
-
+Verision 1.0
 
 
