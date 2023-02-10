@@ -1,4 +1,4 @@
-# black-and-beautiful-affirmation
+# black-and-beautiful-affirmations
 
 This repo is the bases of a passion project built on improving your self dialougue and centering yourself when you need a little pick me up.
 
