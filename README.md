@@ -1,4 +1,4 @@
-# Black and Beautiful Affirmations App
+# Mindful Melanin App
 
 Affirmations App designed to uplift you,ceter you and give a pick me up.
 ## Description
